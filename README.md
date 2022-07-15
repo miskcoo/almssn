@@ -15,7 +15,7 @@ Then, you can run `RunCM.m`, `RunSPCA.m` or `RunOrtho.m`.
 
 ## Files 
 
-Our codes are in the directory `almssn`, they depend on two manifold optimization libraries [1, 2]:
+Our codes are in the directory `almssn`. They depend on two manifold optimization libraries [1, 2]:
 
  - The directory `manopt` contains the package http://www.manopt.org [1].
  - The directory `OptM` contains Wen's first-order method in Stiefel manifolds; see https://github.com/optsuite/OptM [2]. The file `OptStiefelGBB.m` was slightly modified to record the intermediate results.
