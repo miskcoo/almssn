@@ -13,6 +13,8 @@ run manopt/importmanopt.m
 
 Then, you can run `RunCM.m`, `RunSPCA.m` or `RunOrtho.m`.
 
+_Important note_: this is a research software. It is not intended nor designed to be a general purpose software at the moment.
+
 ## Files 
 
 Our codes are in the directory `almssn`. They depend on two manifold optimization libraries [1, 2]:
